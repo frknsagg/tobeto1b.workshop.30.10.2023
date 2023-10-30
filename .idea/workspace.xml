@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f80774-fbe9-4cca-a954-cc30e111be72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TwoFriendsNumber/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoFriendsNumber/src/main/java/org/example/TwoFriendsNumberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoFriendsNumber/src/main/java/org/example/AmicableNumbersFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UniqueCharController/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +45,9 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.TwoFriendsNumberController">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Anagram" />
-      <module name="Anagram" />
+    <configuration name="AmicableNumbersFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AmicableNumbersFinder" />
+      <module name="TwoFriendsNumber" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -117,10 +113,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TwoFriendsNumberController" />
+        <item itemvalue="Application.AmicableNumbersFinder" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.UniqueCharactersChecker" />
         <item itemvalue="Application.UniqueCharacters" />
-        <item itemvalue="Application.Anagram" />
       </list>
     </recent_temporary>
   </component>
