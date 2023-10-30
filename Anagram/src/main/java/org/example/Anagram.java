@@ -4,9 +4,8 @@ import java.util.Arrays;
 
 public class Anagram {
     public static void main(String[] args) {
-        String series1 = "rkaı ";
-        String series2 = " rakı";
-        anagramChecker(series1,series2);
+        String series1 = "ırak";
+        String series2 = "rakı";
         if (anagramChecker(series1,series2)){
             System.out.println("iki string birbirinin anagramıdır.");
         }

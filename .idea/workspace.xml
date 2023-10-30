@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f80774-fbe9-4cca-a954-cc30e111be72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Anagram/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniqueCharController/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniqueCharController/src/main/java/org/example/UniqueCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CountOfWord/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagram/src/main/java/org/example/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Anagram/src/main/java/org/example/Anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +48,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.UniqueCharacters">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Anagram" />
       <module name="Anagram" />
@@ -100,9 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Fibonacci" />
+    <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.UniqueCharacters" />
+      <module name="UniqueCharController" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueCharacters" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.LetterCount" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
