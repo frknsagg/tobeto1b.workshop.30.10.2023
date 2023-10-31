@@ -8,7 +8,7 @@ public class LetterCount {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Bir cümle yazınız");
+        System.out.print("Bir cümle yazınız: ");
         String metin = scan.nextLine();
 
 
@@ -16,12 +16,12 @@ public class LetterCount {
         for (int i = 0; i < metin.length(); i++) {
             char karakter = metin.charAt(i);
 
-            // Eğer karakter zaten haritada varsa, adetini bir artır
+            // Eğer karakter zaten haritada varsa, adetini bir artır.
             if (karakterAdetleri.containsKey(karakter)) {
                 karakterAdetleri.put(karakter, karakterAdetleri.get(karakter) + 1);
                 //t           2
             } else {
-                // Eğer karakter haritada yoksa, yeni bir giriş oluştur
+                // Eğer karakter haritada yoksa, yeni bir giriş oluştur.
                 karakterAdetleri.put(karakter, 1);
             }
         }
